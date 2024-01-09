@@ -3,8 +3,6 @@
 - 🌱 I’have 2 years of Experience as Business Analyst
 - 💞️ I’m looking for a Business Analsyt Role.
 - 📫 How to reach me ...Contact - akashty10505@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Aakash0724/Aakash0724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
